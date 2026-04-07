@@ -1,7 +1,7 @@
 #👋 Hi, I'm Sanjib Saha
 
-#💻 Software Engineering Co-op Student @ McMaster University
-#🚀 Frontend-Focused Full Stack Developer
+#💻 Software Engineering Co-op Student @ McMaster University  
+#🚀 Frontend-Focused Full Stack Developer  
 #📍 Toronto, ON (Open to relocation)
 
 ##🔧 Tech Stack
