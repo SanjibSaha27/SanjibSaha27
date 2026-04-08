@@ -11,48 +11,48 @@
 -Component-based UI development  
 -Form handling & validation  
 
-##Backend:  
+## Backend:  
 -Node.js, Express  
 -REST API integration  
 
-##Databases:  
+## Databases:  
 -MongoDB, MySQL  
 
-##Tools:  
+## Tools:  
 -GitHub, VS Code, Jira  
 
-##📌 What I Focus On  
+## 📌 What I Focus On  
 -Building structured, data-driven user interfaces  
 -Designing forms, validation systems, and workflows  
 -Creating responsive and user-friendly UI components  
 -Integrating APIs into frontend applications  
 -Writing clean, maintainable, and scalable code  
 
-##🚀 Featured Projects  
-##**🧾 Student Management System**  
+## 🚀 Featured Projects  
+## **🧾 Student Management System**  
 -React-based application with form validation and CRUD operations  
 -Demonstrates state management and structured workflows  
 
-##**💬 Chatbot Application**  
+## **💬 Chatbot Application**  
 -Real-time app using WebSockets and dynamic UI updates  
 -Focus on event-driven architecture and data handling  
 
-##**🏠 Hamilton Homes Web App**  
+## **🏠 Hamilton Homes Web App**  
 -Interactive UI with Google Maps API integration  
 -Focus on user experience and responsive design  
 
-##**🚦 Traffic Monitoring Dashboard**  
+## **🚦 Traffic Monitoring Dashboard**  
 -Data visualization system for real-time insights  
 -Built with focus on clarity and usability of data-heavy UI  
 
-##🌱 Currently Learning  
+## 🌱 Currently Learning  
 -TypeScript  
 -Next.js (fundamentals)  
 -Advanced frontend architecture  
 
-##🎯 Career Goal  
+## 🎯 Career Goal  
 -To build scalable, user-focused applications, especially in health-tech and data-driven platforms  
 
-##📫 Contact Me  
+## 📫 Contact Me  
 📧 sahas30@mcmaster.ca  
 🔗 GitHub: github.com/SanjibSaha27  
